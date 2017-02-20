@@ -23,6 +23,5 @@ abstract class is used.
 
 ### Example 4: boost::sml refactored
 
-This example is complementary to the second boost::msm example. It shall demonstrate how to use 
-boost::sml as a class member without the need for an abstract class. This example does not compile 
-and needs some work. Suggestions are very much appreciated. 
+This example is complementary to the second boost::msm example. It demonstrates how to use 
+boost::sml as a class member without the need for an abstract class. 
